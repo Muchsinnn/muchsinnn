@@ -4,41 +4,36 @@
 
 <p align="center">
   <h1 align="center">Hi, I'm Muchsin 👋</h1>
-  <p align="center"><em>Full-Stack Developer | UI/UX Enthusiast | IoT Explorer</em></p>
+  <p align="center"><em>Full-Stack Developer | UI/UX Enthusiast | Software Engineer</em></p>
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 
-I'm a passionate student and programmer diving deep into full-stack development, UI/UX design, and the exciting world of IoT. I love building sleek, user-friendly applications and exploring how connected devices can improve everyday life.
+I am a passionate developer with strong interests in full-stack development, UI/UX design, and web and mobile application development. I enjoy building practical, user-friendly, and well-structured applications aligned with industry standards.
 
 ---
 
 ### 🛠️ Skills
-
 <p align="center">
+  <!-- Frontend -->
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Blazor" src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img alt="Bootstrap 5" src="https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <!-- Backend -->
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <!-- Database -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Muchsin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muchsin&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Muchsin's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muchsin&theme=radical" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
