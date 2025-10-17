@@ -35,34 +35,6 @@ I am a passionate developer with strong interests in full-stack development, UI/
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| [Awesome Portfolio](https://github.com/Muchsin/awesome-portfolio) | A sleek, responsive portfolio website showcasing my projects and skills. |
-| [IoT Home Automation](https://github.com/Muchsin/iot-home-automation) | Smart home system using Arduino and Raspberry Pi to control appliances remotely. |
-| [Taskify](https://github.com/Muchsin/taskify) | A minimalist task management app built with React and Node.js for productivity lovers. |
-
----
-
-### 🎯 Current Learning & Goals
-
-- Deepening my knowledge in **Progressive Web Apps (PWA)** and **Serverless Architecture**.
-- Exploring **Machine Learning** integration with IoT devices.
-- Improving UI/UX skills by designing accessible and inclusive interfaces.
-- Contributing to open-source projects regularly.
-
----
-
-### 🎉 Fun Facts & Hobbies
-
-- 🎮 Gamer at heart — love strategy and puzzle games.
-- 🎨 Amateur digital artist, always experimenting with new styles.
-- ☕ Coffee enthusiast — coding is better with a good cup of coffee.
-- 🤖 Fascinated by robotics and automation.
-- 📚 Currently reading *“Clean Code”* by Robert C. Martin.
-
----
 
 ### 📫 Let's Connect
 
